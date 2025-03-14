@@ -7,7 +7,7 @@
 
 /* TAG header */
 header {
-    background-color: #D3D3D3; /* Define a cor de fundo do cabeçalho como cinza claro */
+    background-color: #79536e; /* Define a cor de fundo do cabeçalho como cinza claro */
     display: flex; /* Utiliza o Flexbox para organizar os itens no cabeçalho */
     flex-direction: row; /* Organiza os itens em uma linha (horizontalmente) */
     align-items: center; /* Alinha os itens verticalmente no centro */
