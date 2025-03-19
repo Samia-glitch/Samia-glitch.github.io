@@ -33,7 +33,7 @@ header {
  flex-direction: row; 
  align-items: center; 
  justify-content: space-around; 
- gap: 40px; 
+ gap: 10px; 
 }
 
 header img {
@@ -62,7 +62,7 @@ header img {
 .header-nav-a span {
  font-size: 24px; 
  letter-spacing: 2px;
-  gap: 60px;
+ 
 }
 
 #apresentacao {
