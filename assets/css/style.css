@@ -216,6 +216,7 @@ header img {
     font-weight: 500;
     height: 200px;
     text-align:justify;
+    padding:5px;
 }
 
 .card button{
