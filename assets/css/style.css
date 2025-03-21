@@ -216,7 +216,8 @@ header img {
     font-weight: 500;
     height: 200px;
     text-align:justify;
-    padding:5px;
+    padding-left:5px;
+    padding-right:5px;
 }
 
 .card button{
