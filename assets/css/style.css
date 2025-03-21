@@ -140,7 +140,7 @@ header img {
 /* Estilização do botão dentro da seção de apresentação */
 #apresentacao div button {
     margin: 10px; /* Define as margens do botão */
-    width: 70%; /* Define a largura do botão como 200px */
+    width: 50%; /* Define a largura do botão como 200px */
     height: 50px; /* Define a altura do botão como 50px */
     background-color: var(--cor1); /* Define a cor de fundo como branco */
     color: var(--cor2); /* Define a cor do texto como preto */
@@ -149,7 +149,8 @@ header img {
     border: 2px solid var(--cor1); /* Adiciona uma borda branca de 2px */
     border-radius: 10px; /* Arredonda as bordas do botão */
     cursor: pointer; /* Muda o cursor ao passar sobre o botão */
-    transition: all 1s ease; /* Adiciona uma transição suave */
+    transition: all 1s ease; 
+    /* Adiciona uma transição suave */
 }
 
 /* Efeito ao passar o mouse sobre o botão */
@@ -214,6 +215,7 @@ header img {
     margin-top: 20px;
     font-weight: 500;
     height: 200px;
+    text-align:justify;
 }
 
 .card button{
@@ -223,7 +225,7 @@ header img {
     border-radius: 5px;
     background-color: var(--cor2);
     color: var(--cor1);
-    width: 60%;
+    width: 50%;
     height: 50px;
     font-weight: 600;
     cursor:pointer;
